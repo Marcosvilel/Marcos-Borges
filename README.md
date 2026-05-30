@@ -20,21 +20,6 @@
   </picture>
 </div>
 
-### 🐍 O que é isso?
-
-Aquele gráfico animado lá em cima pega o meu **grafo de contribuições do GitHub**
-e o usa como tabuleiro: uma cobrinha percorre os dias e vai "devorando" cada
-quadradinho de commit. É uma forma divertida de transformar o histórico de
-trabalho em algo vivo — inspirado no clássico [README do ethomson](https://github.com/ethomson/ethomson),
-que faz o mesmo com o _Game of Life_.
-
-### ⚙️ Como funciona?
-
-Um [GitHub Action](.github/workflows/snake.yml) roda automaticamente todo dia,
-lê as contribuições de **Marcos Borges** (`marcosvilel`) com a action
-[`Platane/snk`](https://github.com/Platane/snk) e renderiza um SVG animado
-(versões clara e escura), publicado no branch `output` deste repositório.
-
 ---
 
 ## 👋 Sobre
@@ -47,32 +32,31 @@ Valorizo código limpo, aprendizado contínuo e colaboração.
 
 - **Linguagens:**
 
-  [![Linguagens](https://skillicons.dev/icons?i=java,js,ts,python,cs)](https://skillicons.dev)
+  [![Linguagens](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
 
 - **Frameworks & Bibliotecas:**
 
-  [![Frameworks](https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,dotnet)](https://skillicons.dev)
+  [![Frameworks](https://skillicons.dev/icons?i=flask,bootstrap)](https://skillicons.dev)
 
-- **Dados:**
+- **Dados & Cache:**
 
-  [![Dados](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+  [![Dados](https://skillicons.dev/icons?i=postgres,redis)](https://skillicons.dev)
 
-- **IoT & Cidades Inteligentes:**
+- **DevOps & Deploy:**
 
-  [![IoT](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+  [![DevOps](https://skillicons.dev/icons?i=docker,githubactions)](https://skillicons.dev)
   &nbsp;
-  ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=mqtt&logoColor=white)
-  ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white)
-  ![NodeRED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat&logo=node-red&logoColor=white)
+  ![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white)
+  ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
 - **Ferramentas:**
 
-  [![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma)](https://skillicons.dev)
+  [![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
 
 ## 🏆 Projetos Destacados
 
-- 🌆 [**Cidade Inteligente**](https://github.com/marcosvilel/cidade-inteligente) — projeto de **Smart City** com soluções de IoT para monitoramento urbano (sensores, telemetria e dashboard), unindo hardware e software para tornar a cidade mais conectada e eficiente.
-- 🚢 [**Challenge Letsing**](https://github.com/marcosvilel/challenge-letsing) — desafio em parceria com a **Letsing**, desenvolvendo uma solução fullstack para otimizar processos do negócio com foco em escalabilidade, boas práticas e experiência do usuário.
+- 🌿 [**Cidades ESG Inteligentes**](https://github.com/Marcosvilel/cidades-esg-inteligentes) — API REST em **Python/Flask** para monitoramento de indicadores de sustentabilidade (ESG) de cidades brasileiras. Containerizada com **Docker** (multi-stage), **PostgreSQL + Redis** e pipeline **CI/CD** no GitHub Actions, com deploy automatizado em staging e produção no **Railway**.
+- 🖊️ [**Challenge LetSing**](https://github.com/Marcosvilel/Challenge-LetSing) — sistema de **autenticação multifator e assinatura digital** (HTML5, CSS3, Bootstrap 5 e JavaScript). Fluxo em 3 etapas com login, recuperação de senha e 2FA, upload e visualização de documentos e assinatura com QR Code, geolocalização e biometria. Projeto em equipe na **FIAP (ADS)**.
 
 ## 📊 Estatísticas
 
@@ -92,7 +76,6 @@ colaboração, projetos interessantes ou qualquer assunto sobre desenvolvimento
 de software. 😊
 
 <p align="left">
-  <a href="mailto:lainioborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/marcosvilel"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/marcos-vilela-241b40191/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
