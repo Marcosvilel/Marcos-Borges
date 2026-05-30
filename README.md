@@ -24,9 +24,23 @@
 
 ## 👋 Sobre
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos
-desafios para expandir meu conhecimento e construir soluções bem estruturadas.
-Valorizo código limpo, aprendizado contínuo e colaboração.
+🎓 Cursando Análise e Desenvolvimento de Sistemas na FIAP, com foco no desenvolvimento de aplicações, integração de sistemas e construção de soluções tecnológicas na prática.
+ 
+Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web, APIs REST, arquitetura de aplicações e boas práticas de software, sempre buscando evoluir através de projetos reais e colaborativos.
+ 
+💻 Conhecimentos principais:
+ 
+HTML, CSS e JavaScript | Java | Spring Boot | APIs REST | Docker | MongoDB | Git/GitHub | Railway | Desenvolvimento Android | UX em projetos acadêmicos
+ 
+🚀 Projetos acadêmicos e práticos:
+ 
+• Fintech de Finanças: desenvolvimento de uma aplicação com interface dinâmica, foco em organização financeira, experiência do usuário e interações utilizando HTML, CSS e JavaScript.
+ 
+• CRM WTC: projeto completo envolvendo backend em Java Spring Boot, integração com MongoDB, Docker, APIs REST, autenticação, WebSocket e aplicação Android integrada em tempo real.
+ 
+• Global Solution: desenvolvimento em equipe com integração de APIs, colaboração em versionamento com Git/GitHub e aplicação de soluções voltadas para desafios reais.
+ 
+• Sistema ESG com testes automatizados: criação de APIs e automação de testes utilizando práticas de qualidade de software, validação de endpoints e estrutura baseada em BDD.
 
 ## 🚀 Stack
 
