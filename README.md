@@ -7,8 +7,7 @@
 <p align="center">
   <a href="https://github.com/marcosvilel"><img src="https://img.shields.io/badge/GitHub-marcosvilel-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="mailto:lainioborges@gmail.com"><img src="https://img.shields.io/badge/Gmail-contato-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <!-- troque [SeuPerfil] pelo seu usuário do LinkedIn -->
-  <a href="https://www.linkedin.com/in/SeuPerfil"><img src="https://img.shields.io/badge/LinkedIn-perfil-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/marcos-vilela-241b40191/"><img src="https://img.shields.io/badge/LinkedIn-Marcos%20Vilela-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -46,31 +45,34 @@ Valorizo código limpo, aprendizado contínuo e colaboração.
 
 ## 🚀 Stack
 
-<!-- edite os ícones em https://skillicons.dev -->
-
 - **Linguagens:**
 
-  [![Linguagens](https://skillicons.dev/icons?i=js,python,java)](https://skillicons.dev)
+  [![Linguagens](https://skillicons.dev/icons?i=java,js,ts,python,cs)](https://skillicons.dev)
 
 - **Frameworks & Bibliotecas:**
 
-  [![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express)](https://skillicons.dev)
+  [![Frameworks](https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,dotnet)](https://skillicons.dev)
 
 - **Dados:**
 
   [![Dados](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
+- **IoT & Cidades Inteligentes:**
+
+  [![IoT](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+  &nbsp;
+  ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+  ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white)
+  ![NodeRED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat&logo=node-red&logoColor=white)
+
 - **Ferramentas:**
 
-  [![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,docker)](https://skillicons.dev)
+  [![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma)](https://skillicons.dev)
 
 ## 🏆 Projetos Destacados
 
-<!-- troque pelos seus repositórios reais -->
-
-- [**Projeto 1**](https://github.com/marcosvilel/projeto1) — uma descrição breve do projeto e suas principais características.
-- [**Projeto 2**](https://github.com/marcosvilel/projeto2) — uma descrição breve do projeto e suas principais características.
-- [**Projeto 3**](https://github.com/marcosvilel/projeto3) — uma descrição breve do projeto e suas principais características.
+- 🌆 [**Cidade Inteligente**](https://github.com/marcosvilel/cidade-inteligente) — projeto de **Smart City** com soluções de IoT para monitoramento urbano (sensores, telemetria e dashboard), unindo hardware e software para tornar a cidade mais conectada e eficiente.
+- 🚢 [**Challenge Letsing**](https://github.com/marcosvilel/challenge-letsing) — desafio em parceria com a **Letsing**, desenvolvendo uma solução fullstack para otimizar processos do negócio com foco em escalabilidade, boas práticas e experiência do usuário.
 
 ## 📊 Estatísticas
 
@@ -92,5 +94,5 @@ de software. 😊
 <p align="left">
   <a href="mailto:lainioborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/marcosvilel"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/SeuPerfil"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/marcos-vilela-241b40191/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
