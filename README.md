@@ -1,7 +1,7 @@
 <h1 align="center">Marcos Borges</h1>
 
 <p align="center">
-  <em>Desenvolvedor &nbsp;|&nbsp; Apaixonado por tecnologia</em>
+  <em>Desenvolvedor &nbsp;•&nbsp; Estudante de Análise e Desenvolvimento de Sistemas — FIAP</em>
 </p>
 
 <p align="center">
@@ -24,39 +24,50 @@
 
 ## 👋 Sobre
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos
-desafios para expandir meu conhecimento e construir soluções bem estruturadas.
-Valorizo código limpo, aprendizado contínuo e colaboração.
+🎓 Cursando **Análise e Desenvolvimento de Sistemas na FIAP**, com foco no
+desenvolvimento de aplicações, integração de sistemas e construção de soluções
+tecnológicas na prática.
 
-## 🚀 Stack
+Atualmente, estou aprimorando meus conhecimentos em **desenvolvimento web,
+APIs REST, arquitetura de aplicações e boas práticas de software**, sempre
+buscando evoluir através de projetos reais e colaborativos.
 
-- **Linguagens:**
+## 🚀 Conhecimentos principais
 
-  [![Linguagens](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+- **Front-end:**
 
-- **Frameworks & Bibliotecas:**
+  [![Front-end](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-  [![Frameworks](https://skillicons.dev/icons?i=flask,bootstrap)](https://skillicons.dev)
+- **Back-end & APIs:**
 
-- **Dados & Cache:**
-
-  [![Dados](https://skillicons.dev/icons?i=postgres,redis)](https://skillicons.dev)
-
-- **DevOps & Deploy:**
-
-  [![DevOps](https://skillicons.dev/icons?i=docker,githubactions)](https://skillicons.dev)
+  [![Back-end](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
   &nbsp;
-  ![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white)
+  ![REST APIs](https://img.shields.io/badge/-REST%20APIs-02569B?style=flat&logo=swagger&logoColor=white)
+
+- **Mobile:**
+
+  [![Mobile](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+
+- **Banco de Dados:**
+
+  [![Banco de Dados](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+
+- **DevOps & Ferramentas:**
+
+  [![DevOps](https://skillicons.dev/icons?i=docker,git,github)](https://skillicons.dev)
+  &nbsp;
   ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
-- **Ferramentas:**
+- **Design:**
 
-  [![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
+  ![UX](https://img.shields.io/badge/-UX%20em%20projetos%20acad%C3%AAmicos-FF61F6?style=flat&logo=figma&logoColor=white)
 
-## 🏆 Projetos Destacados
+## 🏆 Projetos acadêmicos e práticos
 
-- 🌿 [**Cidades ESG Inteligentes**](https://github.com/Marcosvilel/cidades-esg-inteligentes) — API REST em **Python/Flask** para monitoramento de indicadores de sustentabilidade (ESG) de cidades brasileiras. Containerizada com **Docker** (multi-stage), **PostgreSQL + Redis** e pipeline **CI/CD** no GitHub Actions, com deploy automatizado em staging e produção no **Railway**.
-- 🖊️ [**Challenge LetSing**](https://github.com/Marcosvilel/Challenge-LetSing) — sistema de **autenticação multifator e assinatura digital** (HTML5, CSS3, Bootstrap 5 e JavaScript). Fluxo em 3 etapas com login, recuperação de senha e 2FA, upload e visualização de documentos e assinatura com QR Code, geolocalização e biometria. Projeto em equipe na **FIAP (ADS)**.
+- 💸 [**Fintech de Finanças**](https://github.com/Marcosvilel/FintechGranFinale) — aplicação com interface dinâmica focada em **organização financeira** e experiência do usuário, com interações construídas em **HTML, CSS e JavaScript**.
+- 📇 **CRM WTC** — projeto completo com **back-end em Java + Spring Boot**, integração com **MongoDB**, **Docker** e **APIs REST**, autenticação, **WebSocket** e aplicação **Android** integrada em tempo real.
+- 🌍 **Global Solution** — desenvolvimento em equipe com integração de **APIs**, colaboração no versionamento com **Git/GitHub** e soluções voltadas para desafios reais.
+- 🌿 [**Sistema ESG com testes automatizados**](https://github.com/Marcosvilel/cidades-esg-inteligentes) — criação de **APIs REST** e automação de testes aplicando práticas de qualidade de software, validação de endpoints e estrutura baseada em **BDD**.
 
 ## 📊 Estatísticas
 
